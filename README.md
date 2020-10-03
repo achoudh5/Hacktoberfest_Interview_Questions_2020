@@ -1,12 +1,23 @@
 # Hacktoberfest_Interview_Questions_2020
-Add a new question, solution in the company folder. Create folder if not present
+This is a repo consisting of various companies interview questions based on programming language. 
 
-Ex. Amazon-> add files under this folder
+For example, Amazon -> Javascript -> Questions List
 
 # Format
-Comapny Folder -> language Folder-> Question in comments & solution
+Comapny Folder -> Language Folder-> Question in comments & solution
 
 # Create a PR
+Fork and create a new branch. 
+
+Clone to your device.
+
+Make changes
+
+checkout to the new branch
+
+push changes
+
+Make a PR
 # Thank you for participation and grab a T-Shirt :smile:
 [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 
