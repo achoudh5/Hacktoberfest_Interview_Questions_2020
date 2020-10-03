@@ -1,0 +1,29 @@
+#### Q1. In your view what are the major responsibilities of a web dveloper
+
+        As a web developer, most of the time entire responsibility of the project is shouldered on us. Most of them are:
+          - To coordinate with the designers.
+          - Developing the appropriate structures for the project.
+          - To provide assistance with the maintenance of websites.
+          - Also to have the ownership of code throughout the development and testing.
+          - To upload the site successfully over the servers.
+
+#### Q2. What do you understand by the term lazy loading?
+        In computer programming, there is a common designing pattern which is known as lazy loading. 
+        In order to precede the initialization of any of the object until the segment where it is needed essentially, it is used. 
+        If user needs then lazy coding is a loading code (in reference to use). 
+        Example - 
+          Under page, a button is present which shows multiple layouts the user can switch to.
+
+#### Q3. What would you do to enable the increase in page performance?
+        Concantenate the Javascript and CSS with compressed and smaller images, best is to upload image to cloud and use its
+        link caching.
+
+#### Q4. As a web developer what do you think are the essentials you should know?
+         As a web developer there are multiple tasks you will have to carry out, but if we are to focus on the technical proficiency of
+         a web developer the essentials are:
+          > HTML
+          > CSS
+          > SQL
+          > PHP
+          > JavaScript
+          > jQuery      
