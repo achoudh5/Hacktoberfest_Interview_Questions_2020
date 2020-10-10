@@ -110,3 +110,41 @@
 8. Find the smallest positive integer value that cannot be represented as sum of any subset of a given array
 9. Smallest subarray with sum greater than a given value
 10. Stock Buy Sell to Maximize Profit
+
+What are the various operations that can be performed on different Data Structures?
+
+Insertion ? Add a new data item in the given collection of data items.
+Deletion ? Delete an existing data item from the given collection of data items.
+Traversal ? Access each data item exactly once so that it can be processed.
+Searching ? Find out the location of the data item if it exists in the given collection of data items.
+Sorting ? Arranging the data items in some order i.e. in ascending or descending order in case of numerical data and in dictionary order in case of alphanumeric data.
+ 
+
+How is an Array different from Linked List?
+
+The size of the arrays is fixed, Linked Lists are Dynamic in size.
+Inserting and deleting a new element in an array of elements is expensive, Whereas both insertion and deletion can easily be done in Linked Lists.
+Random access is not allowed in Linked Listed.
+Extra memory space for a pointer is required with each element of the Linked list.
+Arrays have better cache locality that can make a pretty big difference in performance.
+ 
+
+What is Stack and where it can be used?
+
+Stack is a linear data structure which the order LIFO(Last In First Out) or FILO(First In Last Out) for accessing elements. Basic operations of stack are : Push, Pop , Peek
+
+Applications of Stack:
+
+Infix to Postfix Conversion using Stack
+Evaluation of Postfix Expression
+Reverse a String using Stack
+Implement two stacks in an array
+Check for balanced parentheses in an expression
+ 
+
+What is a Queue, how it is different from stack and how is it implemented?
+
+Queue is a linear structure which follows the order is First In First Out (FIFO) to access elements. Mainly the following are basic operations on queue: Enqueue, Dequeue, Front, Rear
+The difference between stacks and queues is in removing. In a stack we remove the item the most recently added; in a queue, we remove the item the least recently added. Both Queues and Stacks can be implemented using Arrays and Linked Lists.
+
+ 
