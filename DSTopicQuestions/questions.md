@@ -148,3 +148,5 @@ Queue is a linear structure which follows the order is First In First Out (FIFO)
 The difference between stacks and queues is in removing. In a stack we remove the item the most recently added; in a queue, we remove the item the least recently added. Both Queues and Stacks can be implemented using Arrays and Linked Lists.
 
  
+Explain the Bubble sort algorithm?
+Bubble sort is the simplest sorting algorithm among all sorting algorithm. It repeatedly works by swapping the adjacent elements if they are in the wrong order.
