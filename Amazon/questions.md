@@ -9,6 +9,8 @@ Q3. What is the role of the DMZ in network architecture?
 Q4. What is a cross-site scripting attack, and how do you defend against it?
 
 Q5. In network security, what is a honeypot, and why is it used?
+
+Q6. What is the OSI reference model?
   
                          DATASTRUCTURE AND ALGO
       
