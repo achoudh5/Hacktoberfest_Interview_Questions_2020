@@ -9,3 +9,6 @@
 #### Q4. How can you share global variables across modules?
 
 #### Q5. Explain how can you make a Python Script executable on Unix?
+
+#### Q6. Why does Python used for Machine learning?
+            Python offers concise and readable code. While complex algorithms and versatile workflows stand behind machine learning and AI, Python's simplicity                 allows developers to write reliable systems.
